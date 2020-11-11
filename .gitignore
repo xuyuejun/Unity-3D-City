@@ -74,3 +74,8 @@ crashlytics-build.properties
 
 /[Aa]ssets/Enviro - Sky and Weather.meta
 /[Aa]ssets/Enviro - Sky and Weather/*
+
+# Ignore FamilyCar
+
+/[Aa]ssets/FamilyCar.meta
+/[Aa]ssets/FamilyCar/*
